@@ -1,2 +1,4 @@
 #is110
-some codes are in scratch files fx modul 7
+nouns verbs, scenario, crc card.pdf
+and relating codes for some blueJ practices
+
